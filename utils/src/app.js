@@ -1,5 +1,5 @@
-const geocode = require('./utils/geocode')
-const forecast = require('./utils/forecast')
+const geocode = require('../geocode')
+const forecast = require('../forecast')
 
 
 // const url = 'https://api.darksky.net/forecast/ce6678b032480b1a6eebc71de3e5e0cd/37.8267'
